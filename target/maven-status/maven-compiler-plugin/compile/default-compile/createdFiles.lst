@@ -1,0 +1,6 @@
+org/pac4j/demo/spring/CustomAuthorizer.class
+org/pac4j/demo/spring/SecurityConfig.class
+org/pac4j/demo/spring/Pac4jConfig.class
+org/pac4j/demo/spring/MyErrorController.class
+org/pac4j/demo/spring/Application.class
+org/pac4j/demo/spring/SpringBootPac4jDemo.class
